@@ -1,3 +1,5 @@
+Images to Figures correspondence from written work
+
 Figure 1 - crime.html
 
 Figure 2 - catplot.png
