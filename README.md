@@ -2,6 +2,8 @@
 Jupyter notebooks and Dataset Countries.csv used in the context of a University course that required
 the elaboration of graphical representations.
 
+Images are included because the pdf reduced the quality of the Figures so they are meant to aid the evaluator inspect the graphs.
+
 generate_map_1.ipynb generates a folium map.
 
 Descriptive statistics.ipynb generates figures 2,3,4,5.
